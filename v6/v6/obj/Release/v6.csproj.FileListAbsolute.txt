@@ -1,0 +1,6 @@
+C:\M.Ege C#\v6\v6\obj\Release\v6.csproj.AssemblyReference.cache
+C:\M.Ege C#\v6\v6\obj\Release\v6.csproj.SuggestedBindingRedirects.cache
+C:\M.Ege C#\v6\v6\obj\Release\performansV5.Form1.resources
+C:\M.Ege C#\v6\v6\obj\Release\v6.Properties.Resources.resources
+C:\M.Ege C#\v6\v6\obj\Release\v6.csproj.GenerateResource.cache
+C:\M.Ege C#\v6\v6\obj\Release\v6.csproj.CoreCompileInputs.cache
